@@ -1,0 +1,65 @@
+﻿@model List<ShopManager.Areas.Admin.Models.Kho>
+
+<h2>Danh sách kho</h2>
+
+<!-- Thông báo thành công hoặc lỗi -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Nút thêm kho mới -->
+<div class="mb-3">
+    <a href="@Url.Action("Create", "Kho")" class="btn btn-primary">Thêm kho mới</a>
+</div>
+
+<!-- Bảng danh sách kho -->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Tên kho</th>
+            <th>Vị trí</th>
+            <th>Sức chứa</th>
+            <th>Tồn kho hiện tại</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            int index = 1;
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@item.Name</td>
+                    <td>@item.Location</td>
+                    <td>@item.Capacity</td>
+                    <td>@item.CurrentStock</td>
+                    <td>
+                        <a href="@Url.Action("Details", "Kho", new { id = item.Id })" class="btn btn-info btn-sm">Chi tiết</a>
+                        <a href="@Url.Action("Edit", "Kho", new { id = item.Id })" class="btn btn-warning btn-sm">Sửa</a>
+                        <a href="@Url.Action("Delete", "Kho", new { id = item.Id })" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">Không có kho nào được tìm thấy.</td>
+            </tr>
+        }
+    </tbody>
+</table>

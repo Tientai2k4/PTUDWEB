@@ -1,0 +1,881 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopManager.glxxtsqs4u.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\20241129122911avatar1.png",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\20241129122911avatar1.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\20241129123139avatar_custom.png",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\20241129123139avatar_custom.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\20241129163515avatar_custom.png",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\20241129163515avatar_custom.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\20241130111424bong1.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\20241130111424bong1.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\20241130124918bơi dụng cụ.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\20241130124918bơi dụng cụ.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-gloves.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\adidas-gloves.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-predator.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\adidas-predator.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-resistance-band.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\adidas-resistance-band.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-shoes.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\adidas-shoes.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\aolikes-knee-support.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\aolikes-knee-support.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\babolat-grip.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\babolat-grip.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\bose-headphones.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\bose-headphones.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\dumbbell-metal.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\dumbbell-metal.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\garmin-forerunner.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\garmin-forerunner.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\lining-shoes.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\lining-shoes.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\manduka-mat.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\manduka-mat.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\mi-band.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\mi-band.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\molten-football.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\molten-football.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\nike-backpack.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\nike-backpack.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\nike-jersey.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\nike-jersey.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\nike-tennis-shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\nike-tennis-shirt.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\no-image.png",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\no-image.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\speedo-swimwear.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\speedo-swimwear.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\victor-clothes.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\victor-clothes.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\wilson-clash.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\wilson-clash.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\yonex-astrox-100.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\yonex-astrox-100.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\best-sport-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-sport-item-1.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\best-sport-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-sport-item-2.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\best-sport-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-sport-item-3.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\best-sport-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-sport-item-4.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\header.png",
+      "PackagePath": "staticwebassets\\img\\header.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logo-customer-support.png",
+      "PackagePath": "staticwebassets\\img\\logo-customer-support.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logo-easy-return.png",
+      "PackagePath": "staticwebassets\\img\\logo-easy-return.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logo-fast-delivery.png",
+      "PackagePath": "staticwebassets\\img\\logo-fast-delivery.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logo-secure-payment.png",
+      "PackagePath": "staticwebassets\\img\\logo-secure-payment.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logo79.png",
+      "PackagePath": "staticwebassets\\img\\logo79.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logonen.jpg",
+      "PackagePath": "staticwebassets\\img\\logonen.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logonen.png",
+      "PackagePath": "staticwebassets\\img\\logonen.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\logosportshop.png",
+      "PackagePath": "staticwebassets\\img\\logosportshop.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\products.jpg",
+      "PackagePath": "staticwebassets\\img\\products.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\sports-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sports-item-1.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\sports-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sports-item-2.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\store-front.png",
+      "PackagePath": "staticwebassets\\img\\store-front.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\team.jpg",
+      "PackagePath": "staticwebassets\\img\\team.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\img\\team1.jpg",
+      "PackagePath": "staticwebassets\\img\\team1.jpg"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\CODE\\BÀI TẬP LỚN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopManager.props",
+      "PackagePath": "build\\ShopManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopManager.props",
+      "PackagePath": "buildMultiTargeting\\ShopManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopManager.props",
+      "PackagePath": "buildTransitive\\ShopManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

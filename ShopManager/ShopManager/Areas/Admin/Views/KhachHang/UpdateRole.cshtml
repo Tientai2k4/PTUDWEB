@@ -1,0 +1,21 @@
+﻿@model ShopManager.Areas.Admin.Models.KhachHang
+
+<h2>Cập nhật quyền và trạng thái khách hàng</h2>
+
+<form asp-action="UpdateRole" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <label for="IsActive">Trạng thái:</label>
+    <select asp-for="IsActive" class="form-control">
+        <option value="true" selected="@Model.IsActive">Hoạt động</option>
+        <option value="false" selected="@(!Model.IsActive)">Không hoạt động</option>
+    </select>
+
+    <label for="Role">Quyền:</label>
+    <select asp-for="Role" class="form-control">
+        <option value="0" selected="@Model.Role == 0">Khách hàng</option>
+        <option value="1" selected="@Model.Role == 1">Quản trị viên</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+</form>

@@ -1,0 +1,2068 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\components\\menudynamic\\menudynamic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\components\\menudynamic\\menudynamic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\customer\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\customer\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\hoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\hoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\hoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\hoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\chitiethoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\chitiethoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\chitiethoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\chitiethoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\kho\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\kho\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\khocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\khocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\kho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\kho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\kho\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\kho\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\kho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\kho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\kho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\kho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\updaterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\updaterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\categoryadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\categoryadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\dashboarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\dashboarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\dashboarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\dashboarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\controllers\\chitiethoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\controllers\\chitiethoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\chitiethoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\chitiethoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\database\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\database\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\categoryadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\categoryadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\components\\menucategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\components\\menucategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\components\\featuredproducts\\featureproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\components\\featuredproducts\\featureproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\dal\\productarrangedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\dal\\productarrangedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\policy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\policy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\viewcomponents\\menudynamicviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewcomponents\\menudynamicviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\navbaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\navbaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\dal\\cartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\dal\\cartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\helper\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\helper\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\helper\\myconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\helper\\myconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\helper\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\helper\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\viewcomponents\\menucategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewcomponents\\menucategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\viewcomponents\\featuredproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewcomponents\\featuredproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\viewcomponents\\relatedproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewcomponents\\relatedproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\categoryadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\categoryadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\categoryadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\categoryadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\categoryadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\categoryadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\categoryadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\categoryadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\categoryadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\categoryadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\scss\\bootstrap.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\scss\\bootstrap.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\lib\\lightbox\\images\\prev.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\lib\\lightbox\\images\\prev.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\lib\\lightbox\\images\\next.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\lib\\lightbox\\images\\next.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\lib\\lightbox\\images\\loading.gif||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\lib\\lightbox\\images\\loading.gif||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\productadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\productadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\productadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\productadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\productadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\dal\\productadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\dal\\productadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\productadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\productadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\views\\productadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\views\\productadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\productadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\productadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\areas\\admin\\models\\categoryadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\areas\\admin\\models\\categoryadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\dal\\menudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\dal\\menudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\customersignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\customersignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|c:\\code\\b\u00E0i t\u1EADp l\u1EDBn web\\bt_web - test ck\\shopmanager\\shopmanager\\wwwroot\\images\\sanpham\\adidas-predator.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{429A0CAF-2252-48D2-89BA-F81AD9E768FA}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\wwwroot\\images\\sanpham\\adidas-predator.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:16:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuDynamic.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\MenuDynamic\\MenuDynamic.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\Components\\MenuDynamic\\MenuDynamic.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\MenuDynamic\\MenuDynamic.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\Components\\MenuDynamic\\MenuDynamic.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:50.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Customer\\SignUp.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\SignUp.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Customer\\SignUp.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T14:46:51.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Customer\\SignIn.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\SignIn.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Customer\\SignIn.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAADwv2gAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:53:40.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Customer\\Profile.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Customer\\Profile.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Customer\\Profile.cshtml",
+              "ViewState": "AQIAAIwAAAAAAAAAAADwv6wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T15:44:01.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CustomerDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\DAL\\CustomerDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CustomerDAL.cs",
+              "RelativeToolTip": "ShopManager\\DAL\\CustomerDAL.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv6UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:31:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv+wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:44:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:58:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T15:02:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:33:03.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Program.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Program.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Program.cs",
+              "RelativeToolTip": "ShopManager\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:07:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T02:04:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Create.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Create.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:00:13.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\HoaDon\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\HoaDon\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\HoaDon\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\HoaDon\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T02:01:00.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\HoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\HoaDon\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\HoaDon\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\HoaDon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:58:36.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T07:26:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T02:16:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:47:29.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Kho\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Kho\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T02:03:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Kho.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\Kho.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\Kho.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\Kho.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\Kho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:45:44.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Kho\\Delete.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Delete.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Kho\\Delete.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:41:55.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ChiTietHoaDon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:59:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Kho\\Create.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Create.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Kho\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:41:09.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KhoController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\KhoController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\KhoController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\KhoController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\KhoController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:31:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Kho\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Kho\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:40:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Kho\\Edit.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Kho\\Edit.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Kho\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:41:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KhoDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\KhoDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\KhoDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\KhoDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\KhoDAL.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAmwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:38:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateRole.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\UpdateRole.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\UpdateRole.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\UpdateRole.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\UpdateRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:09:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T05:59:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KhachHangDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\KhachHangDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\KhachHangDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\KhachHangDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\KhachHangDAL.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:38:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\KhachHang.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:45:27.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:30:54.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\HoaDonDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\HoaDonDAL.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAArwIoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:38:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopManager\\appsettings.json",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\appsettings.json",
+              "RelativeToolTip": "ShopManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T06:25:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\Customer.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\Customer.cs",
+              "RelativeToolTip": "ShopManager\\Models\\Customer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:19:05.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Delete.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Delete.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:04:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:00:00.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\KhachHang\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\KhachHang\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:00:06.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:30:43.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:13:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:45:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:45:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:08:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductAdminController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ProductAdminController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\ProductAdminController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ProductAdminController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\ProductAdminController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwPQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:27:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:31:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryAdminController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\CategoryAdminController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\CategoryAdminController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\CategoryAdminController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\CategoryAdminController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:36:22.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:43:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\HoaDon.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:45:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DashboardDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\DashboardDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\DashboardDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\DashboardDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\DashboardDAL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:15:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "ShopManager\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T14:20:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardData.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\DashboardData.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\DashboardData.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\DashboardData.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\DashboardData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:15:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:08:28.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\Report.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\Report.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:46:47.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:35:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChiTietHoaDonController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ChiTietHoaDonController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Controllers\\ChiTietHoaDonController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Controllers\\ChiTietHoaDonController.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Controllers\\ChiTietHoaDonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:30:07.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\ReportDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ReportDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\ReportDAL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:39:36.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ChiTietHoaDonDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ChiTietHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\ChiTietHoaDonDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ChiTietHoaDonDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\ChiTietHoaDonDAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:37:10.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryAdminDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\CategoryAdminDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\CategoryAdminDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\CategoryAdminDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\CategoryAdminDAL.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAuwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:35:06.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Database\\DBConnect.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Database\\DBConnect.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Database\\DBConnect.cs",
+              "RelativeToolTip": "ShopManager\\Database\\DBConnect.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:31:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T10:28:35.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ShopManager\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAQwOEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T04:59:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\Components\\MenuCategory\\Default.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T15:02:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FeatureProduct.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\FeaturedProducts\\FeatureProduct.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\Components\\FeaturedProducts\\FeatureProduct.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\FeaturedProducts\\FeatureProduct.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\Components\\FeaturedProducts\\FeatureProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:01:46.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T07:12:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ShopManager\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T14:20:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:09:20.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:47:40.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\Product.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\Product.cs",
+              "RelativeToolTip": "ShopManager\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:47:19.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:07:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductArrangeDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\ProductArrangeDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\DAL\\ProductArrangeDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\ProductArrangeDAL.cs",
+              "RelativeToolTip": "ShopManager\\DAL\\ProductArrangeDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:32:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:55:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:48:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Policy.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Policy.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\Policy.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Policy.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\Policy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:18:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FAQ.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\FAQ.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\FAQ.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\FAQ.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\FAQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:19:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Terms.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Terms.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\Terms.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Terms.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\Terms.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:18:44.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T15:45:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MenuDynamicViewComponent.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\MenuDynamicViewComponent.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewComponents\\MenuDynamicViewComponent.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\MenuDynamicViewComponent.cs",
+              "RelativeToolTip": "ShopManager\\ViewComponents\\MenuDynamicViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:04:49.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T05:08:29.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T05:11:03.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:17.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T04:13:38.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:16.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "NavbarItem.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\NavbarItem.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\NavbarItem.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\NavbarItem.cs",
+              "RelativeToolTip": "ShopManager\\Models\\NavbarItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:26:56.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:28:19.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShopManager\\appsettings.Development.json",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\appsettings.Development.json",
+              "RelativeToolTip": "ShopManager\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T04:18:46.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CartDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CartDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\DAL\\CartDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CartDAL.cs",
+              "RelativeToolTip": "ShopManager\\DAL\\CartDAL.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwCsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:07:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:19:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Helper\\PasswordHelper.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\PasswordHelper.cs",
+              "RelativeToolTip": "ShopManager\\Helper\\PasswordHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:46:23.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Helper\\ImageHelper.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\ImageHelper.cs",
+              "RelativeToolTip": "ShopManager\\Helper\\ImageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:29:55.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "MyConst.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\MyConst.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Helper\\MyConst.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\MyConst.cs",
+              "RelativeToolTip": "ShopManager\\Helper\\MyConst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:52:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Helper\\SessionExtensions.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Helper\\SessionExtensions.cs",
+              "RelativeToolTip": "ShopManager\\Helper\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:53:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "MenuCategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\MenuCategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewComponents\\MenuCategoryViewComponent.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\MenuCategoryViewComponent.cs",
+              "RelativeToolTip": "ShopManager\\ViewComponents\\MenuCategoryViewComponent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:59:56.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "FeaturedProductsViewComponent.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\FeaturedProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewComponents\\FeaturedProductsViewComponent.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\FeaturedProductsViewComponent.cs",
+              "RelativeToolTip": "ShopManager\\ViewComponents\\FeaturedProductsViewComponent.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:01:06.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ShopManager\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:05:27.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:17:41.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "RelatedProductViewComponent.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\RelatedProductViewComponent.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewComponents\\RelatedProductViewComponent.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\ViewComponents\\RelatedProductViewComponent.cs",
+              "RelativeToolTip": "ShopManager\\ViewComponents\\RelatedProductViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:31:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Edit.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Edit.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:19:11.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Delete.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Delete.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:21:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Create.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Create.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:08:17.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T15:48:35.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:41:31.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\CategoryAdmin\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:16:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "loading.gif",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+              "RelativeToolTip": "ShopManager\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T05:30:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ShopManager\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-30T05:30:19.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "ShopManager\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-30T05:30:13.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "next.png - PNG [50x45, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\next.png",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\lib\\lightbox\\images\\next.png",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\next.png - PNG [50x45, 32 bit, PNG]",
+              "RelativeToolTip": "ShopManager\\wwwroot\\lib\\lightbox\\images\\next.png - PNG [50x45, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T05:30:45.816Z",
+              "EditorCaption": " - PNG [50x45, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "bootstrap.scss",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap.scss",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\scss\\bootstrap.scss",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\scss\\bootstrap.scss",
+              "RelativeToolTip": "ShopManager\\wwwroot\\scss\\bootstrap.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-30T05:31:14.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "prev.png - PNG [50x45, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\prev.png",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\lib\\lightbox\\images\\prev.png",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\lib\\lightbox\\images\\prev.png - PNG [50x45, 32 bit, PNG]",
+              "RelativeToolTip": "ShopManager\\wwwroot\\lib\\lightbox\\images\\prev.png - PNG [50x45, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T05:30:50.454Z",
+              "EditorCaption": " - PNG [50x45, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Index.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:28:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Edit.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:40:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Create.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Create.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:34:20.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProductAdminDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ProductAdminDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\DAL\\ProductAdminDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\DAL\\ProductAdminDAL.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\DAL\\ProductAdminDAL.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAUwDQBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:52:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:35:26.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Details.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Details.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Details.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:39:58.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Delete.cshtml",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Delete.cshtml",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Views\\ProductAdmin\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:39:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ProductAdmin.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\ProductAdmin.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\ProductAdmin.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\ProductAdmin.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\ProductAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:25:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CategoryAdmin.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\CategoryAdmin.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Areas\\Admin\\Models\\CategoryAdmin.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Areas\\Admin\\Models\\CategoryAdmin.cs",
+              "RelativeToolTip": "ShopManager\\Areas\\Admin\\Models\\CategoryAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:34:13.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "MenuDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\MenuDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\DAL\\MenuDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\MenuDAL.cs",
+              "RelativeToolTip": "ShopManager\\DAL\\MenuDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "CustomerSignIn.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CustomerSignIn.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\CustomerSignIn.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CustomerSignIn.cs",
+              "RelativeToolTip": "ShopManager\\Models\\CustomerSignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:06:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "ShopManager\\DAL\\CategoryDAL.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\DAL\\CategoryDAL.cs",
+              "RelativeToolTip": "ShopManager\\DAL\\CategoryDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:58:41.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\CartItem.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CartItem.cs",
+              "RelativeToolTip": "ShopManager\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:53:06.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\CartModel.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CartModel.cs",
+              "RelativeToolTip": "ShopManager\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:05:02.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "CategoryMenu.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CategoryMenu.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\CategoryMenu.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\CategoryMenu.cs",
+              "RelativeToolTip": "ShopManager\\Models\\CategoryMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:57:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShopManager\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:09:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\Models\\MenuItem.cs",
+              "RelativeToolTip": "ShopManager\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:26:35.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "adidas-predator.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-predator.jpg",
+              "RelativeDocumentMoniker": "ShopManager\\wwwroot\\Images\\SanPham\\adidas-predator.jpg",
+              "ToolTip": "C:\\CODE\\B\u00C0I T\u1EACP L\u1EDAN WEB\\BT_WEB - Test CK\\ShopManager\\ShopManager\\wwwroot\\Images\\SanPham\\adidas-predator.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "RelativeToolTip": "ShopManager\\wwwroot\\Images\\SanPham\\adidas-predator.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-22T03:10:58.117Z",
+              "EditorCaption": " - Bitmap [225x225, 24 bit, JPG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+﻿@model ShopManager.Models.Product
+
+@{
+    ViewData["Title"] = "Chi Tiết Sản Phẩm";
+}
+
+<!-- Single Page Header Start -->
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Chi Tiết Sản Phẩm</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a href="/" class="text-white">Trang Chủ</a></li>
+        <li class="breadcrumb-item"><a href="/product" class="text-white">Cửa Hàng</a></li>
+        <li class="breadcrumb-item active text-white">Chi Tiết Sản Phẩm</li>
+    </ol>
+</div>
+<!-- Single Page Header End -->
+<!-- Product Detail Start -->
+<div class="container-fluid py-5 mt-5">
+    <div class="container py-5">
+        <div class="row g-4 mb-5">
+            <!-- Product Image Start -->
+            <div class="col-lg-6 col-md-12">
+                <div class="border rounded p-3">
+                    <img src="~/Images/SanPham/@Model.Img" class="img-fluid rounded" alt="Image" />
+                </div>
+            </div>
+            <!-- Product Image End -->
+            <!-- Product Info Start -->
+            <div class="col-lg-6 col-md-12">
+                <h4 class="fw-bold mb-3">@Model.Title</h4>
+                <p class="mb-3">Danh mục: <span class="text-muted">@Model.CategoryTitle</span></p>
+                <h5 class="fw-bold mb-3 text-success">@Model.Price.ToString("#,##0 VND")</h5>
+
+                <!-- Rating Start -->
+                <div class="d-flex mb-4">
+                    <span class="me-2">@Model.Rate</span>
+                    <i class="fa fa-star text-warning"></i>
+                    <i class="fa fa-star text-warning"></i>
+                    <i class="fa fa-star text-warning"></i>
+                    <i class="fa fa-star text-warning"></i>
+                    <i class="fa fa-star-half-alt text-warning"></i>
+                </div>
+                <!-- Rating End -->
+                <!-- Quantity Selection and Add to Cart Button Start -->
+                <form asp-controller="Cart" asp-action="AddToCart" asp-route-id="@Model.Id" method="post">
+                    <div class="input-group quantity mb-4" style="width: 150px">
+                        <div class="input-group-btn">
+                            <button type="button" class="btn btn-sm btn-minus rounded-circle bg-light border">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                        <input type="number" class="form-control form-control-sm text-center border-0" name="quantity" value="1" min="1" />
+                        <div class="input-group-btn">
+                            <button type="button" class="btn btn-sm btn-plus rounded-circle bg-light border">
+                                <i class="fa fa-plus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn border border-secondary rounded-pill px-4 py-2 text-primary">
+                        <i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart
+                    </button>
+                </form>
+                <!-- Quantity Selection and Add to Cart Button End -->
+            </div>
+            <!-- Product Info End -->
+        </div>
+
+        <!-- Product Description and Reviews Start -->
+        <div class="row g-4">
+            <!-- Product Description Start -->
+            <div class="col-12">
+                <nav>
+                    <div class="nav nav-tabs mb-3">
+                        <button class="nav-link active" type="button" role="tab" id="nav-about-tab" data-bs-toggle="tab" data-bs-target="#nav-about" aria-controls="nav-about" aria-selected="true">
+                            Mô Tả
+                        </button>
+                        <button class="nav-link" type="button" role="tab" id="nav-reviews-tab" data-bs-toggle="tab" data-bs-target="#nav-reviews" aria-controls="nav-reviews" aria-selected="false">
+                            Đánh Giá
+                        </button>
+                    </div>
+                </nav>
+                <div class="tab-content mb-5">
+                    <!-- Description Start -->
+                    <div class="tab-pane active" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
+                        <p>@Model.Content</p>
+                    </div>
+                    <!-- Description End -->
+                    <!-- Reviews Start -->
+                    <div class="tab-pane" id="nav-reviews" role="tabpanel" aria-labelledby="nav-reviews-tab">
+                        <div class="d-flex mb-4">
+                            <img src="img/avatar.jpg" class="img-fluid rounded-circle" style="width: 80px; height: 80px" alt="" />
+                            <div class="ms-3">
+                                <p class="mb-2" style="font-size: 14px;">April 12, 2024</p>
+                                <h5 class="mb-1">Jason Smith</h5>
+                                <div class="d-flex mb-3">
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star-half-alt text-warning"></i>
+                                </div>
+                                <p>Đánh giá sản phẩm rất tốt, tôi rất hài lòng với chất lượng dụng cụ này. Sản phẩm rất chắc chắn và đáng giá tiền.</p>
+                            </div>
+                        </div>
+
+                        <div class="d-flex mb-4">
+                            <img src="img/avatar.jpg" class="img-fluid rounded-circle" style="width: 80px; height: 80px" alt="" />
+                            <div class="ms-3">
+                                <p class="mb-2" style="font-size: 14px;">April 14, 2024</p>
+                                <h5 class="mb-1">Sam Peters</h5>
+                                <div class="d-flex mb-3">
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                    <i class="fa fa-star text-warning"></i>
+                                </div>
+                                <p>Sản phẩm thực sự tuyệt vời. Rất đáng để mua! Giá cả hợp lý, giao hàng nhanh chóng.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Reviews End -->
+                </div>
+            </div>
+            <!-- Product Description End -->
+        </div>
+        <!-- Product Description and Reviews End -->
+    </div>
+</div>
+<!-- Product Detail End -->
+@await Component.InvokeAsync("FeaturedProducts", new { limit = 5 })
+@await Component.InvokeAsync("MenuCategory")

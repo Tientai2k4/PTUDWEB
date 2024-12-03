@@ -1,0 +1,33 @@
+﻿@model List<ShopManager.Areas.Admin.Models.KhachHang>
+
+<h2>Danh sách khách hàng</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Email</th>
+            <th>Số điện thoại</th>
+            <th>Trạng thái</th>
+            <th>Quyền</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName @item.LastName</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@(item.IsActive ? "Hoạt động" : "Không hoạt động")</td>
+                <td>@(item.Role == 0 ? "Khách hàng" : "Quản trị viên")</td>
+                <td>
+                    <a href="@Url.Action("Edit", "KhachHang", new { id = item.Id })">Sửa</a> |
+                    <a href="@Url.Action("Details", "KhachHang", new { id = item.Id })">Chi tiết</a> |
+                    <a href="@Url.Action("Delete", "KhachHang", new { id = item.Id })">Xóa</a> |
+                    <a href="@Url.Action("UpdateRole", "KhachHang", new { id = item.Id })">Cập nhật quyền</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

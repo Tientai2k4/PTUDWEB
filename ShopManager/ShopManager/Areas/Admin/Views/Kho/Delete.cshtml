@@ -1,0 +1,17 @@
+﻿@model ShopManager.Areas.Admin.Models.Kho
+
+<h2>Xóa kho</h2>
+
+<div>
+    <p>Bạn có chắc chắn muốn xóa kho này không?</p>
+    <p><strong>Tên kho:</strong> @Model.Name</p>
+    <p><strong>Vị trí:</strong> @Model.Location</p>
+    <p><strong>Sức chứa:</strong> @Model.Capacity</p>
+    <p><strong>Tồn kho hiện tại:</strong> @Model.CurrentStock</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="@Url.Action("Index", "Kho")" class="btn btn-secondary">Hủy</a>
+</form>

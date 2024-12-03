@@ -1,0 +1,13 @@
+﻿@model ShopManager.Areas.Admin.Models.Kho
+
+<h2>Thông tin chi tiết kho</h2>
+
+<div>
+    <p><strong>Tên kho:</strong> @Model.Name</p>
+    <p><strong>Vị trí:</strong> @Model.Location</p>
+    <p><strong>Sức chứa:</strong> @Model.Capacity</p>
+    <p><strong>Tồn kho hiện tại:</strong> @Model.CurrentStock</p>
+</div>
+
+<a href="@Url.Action("Index", "Kho")" class="btn btn-primary">Quay lại danh sách</a>
+<a href="@Url.Action("Edit", "Kho", new { id = Model.Id })" class="btn btn-secondary">Chỉnh sửa</a>

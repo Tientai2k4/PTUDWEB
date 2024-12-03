@@ -1,0 +1,319 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+<div class="container-fluid py-2 mb-2 hero-header" style="background-image: url('img/background.jpg'); background-size: cover; background-position: center; width: 100%; height: auto; overflow: hidden;">
+    <div class="container py-2">
+        <div class="row g-5 align-items-center">
+            <div class="col-md-12 col-lg-7">
+                <h4 class="mb-3 text-secondary" style="font-weight: bold; font-size: 1rem; margin-top: 0; font-family: 'Courier New', Courier, monospace; color: #333;">SportShop - Sự Lựa Chọn Hàng Đầu Cho Dụng Cụ Thể Thao Chính Hãng</h4>
+                <h1 class="mb-3 text-primary" style="font-weight: bold; font-size: 2.5rem; margin-top: 0; font-family: 'Arial Black', Gadget, sans-serif; color: #0a3d62; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">
+                    Khám Phá Bộ Sưu Tập Thể Thao Đỉnh Cao Tại SportShop
+                </h1>
+
+            </div>
+
+            <div class="col-md-12 col-lg-5">
+                <div id="carouselId" class="carousel slide position-relative" data-bs-ride="carousel">
+                    <div class="carousel-inner" role="listbox">
+                        <!-- Slide 1 -->
+                        <div class="carousel-item active rounded">
+                            <img src="img/best-sport-item-1.jpg" class="img-fluid bg-secondary rounded" alt="Slide 1" />
+                        </div>
+                        <!-- Slide 2 -->
+                        <div class="carousel-item rounded">
+                            <img src="img/best-sport-item-2.jpg" class="img-fluid rounded" alt="Slide 2" />
+                        </div>
+                        <!-- Slide 3 -->
+                        <div class="carousel-item rounded">
+                            <img src="img/best-sport-item-3.jpg" class="img-fluid rounded" alt="Slide 3" />
+                        </div>
+                        <!-- Slide 4 -->
+                        <div class="carousel-item rounded">
+                            <img src="img/best-sport-item-4.jpg" class="img-fluid rounded" alt="Slide 4" />
+                        </div>
+                    </div>
+                    <!-- Previous Button -->
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <!-- Next Button -->
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CSS cho chiều cao cố định và căn chỉnh hình ảnh -->
+<style>
+    .carousel-inner img {
+        height: 300px; /* Chiều cao cố định */
+        object-fit: cover; /* Đảm bảo hình ảnh được cắt để vừa khung */
+        width: 100%; /* Đảm bảo ảnh luôn rộng đủ */
+    }
+</style>
+
+
+<!-- Features Section Start -->
+
+<div class="container-fluid featurs py-1" style="background-color: #f8f9fa;">
+    <div class="container py-3">
+        <div class="row g-4 text-center">
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item p-4 bg-white shadow rounded">
+                    <img src="img/logo-fast-delivery.png" alt="Giao Hàng Nhanh" class="img-fluid mb-3" style="height: 80px;">
+                    <h5 class="mb-3">Giao Hàng Nhanh</h5>
+                    <p>Miễn phí giao hàng với hóa đơn trên 1 triệu  </p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item p-4 bg-white shadow rounded">
+                    <img src="img/logo-secure-payment.png" alt="Thanh Toán An Toàn" class="img-fluid mb-3" style="height: 80px;">
+                    <h5 class="mb-3">Thanh Toán An Toàn</h5>
+                    <p>Hỗ trợ thanh toán online an toàn</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item p-4 bg-white shadow rounded">
+                    <img src="img/logo-easy-return.png" alt="Đổi Trả Dễ Dàng" class="img-fluid mb-3" style="height: 80px;">
+                    <h5 class="mb-3">Đổi Trả Dễ Dàng</h5>
+                    <p>Hỗ trợ đổi trả trong vòng 7 ngày</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item p-4 bg-white shadow rounded">
+                    <img src="img/logo-customer-support.png" alt="Hỗ Trợ 24/7" class="img-fluid mb-3" style="height: 80px;">
+                    <h5 class="mb-3">Hỗ Trợ 24/7</h5>
+                    <p>Luôn sẵn sàng giải đáp thắc mắc</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Features Section End -->
+<!-- Bestseller Products Start -->
+<div class="container-fluid py-3" style="background-color: #f2f2f2;">
+    <div class="container py-3">
+        <div class="text-center mx-auto mb-5" style="max-width: 700px;">
+            <h1 class="display-4" style="font-family: 'Poppins', sans-serif; color: #2e86de; font-weight: bold; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">
+                Sản Phẩm Bán Chạy
+            </h1>
+            <p style="font-family: 'Roboto', sans-serif; color: #6c757d; font-size: 1.2rem;">
+                Khám phá những sản phẩm thể thao được yêu thích nhất hiện nay.
+            </p>
+        </div>
+
+
+        <div class="row g-4">
+            <!-- Product 1 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="img/best-sport-item-1.jpg" class="img-fluid rounded-circle h-100" alt="Giày Thể Thao" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Giày Thể Thao</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <h4 class="mb-3">2.500.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 2 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="img/best-sport-item-2.jpg" class="img-fluid rounded-circle h-100" alt="Tạ Dumbbell Kim Loại" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Tạ Dumbbell Kim Loại</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <h4 class="mb-3">700.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 3 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="img/best-sport-item-3.jpg" class="img-fluid rounded-circle h-100" alt="Găng Tay Tập Gym Adidas" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Găng Tay Tập Gym Adidas</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">450.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 4 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="img/best-sport-item-4.jpg" class="img-fluid rounded-circle h-100" alt="Áo Đấu Nike" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Áo Đấu Nike</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">750.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 5 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/molten-football.jpg" class="img-fluid rounded-circle h-100" alt="Bóng Đá Molten" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Bóng Đá Molten siêu đẹp </a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <h4 class="mb-3">1.200.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 6 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/yonex-astrox-100.jpg" class="img-fluid rounded-circle h-100" alt="Vợt Cầu Lông Yonex Astrox 100" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Vợt Cầu Lông Yonex Astrox 100</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">1.800.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 7 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/manduka-mat.jpg" class="img-fluid rounded-circle h-100" alt="Thảm Yoga Manduka" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Thảm Yoga Manduka</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <h4 class="mb-3">1.200.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 8 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/wilson-clash.jpg" class="img-fluid rounded-circle h-100" alt="Vợt Tennis Wilson Clash" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Vợt Tennis Wilson Clash</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <h4 class="mb-3">3.000.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 9 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/adidas-shoes.jpg" class="img-fluid rounded-circle h-100" alt="Giày Chạy Bộ Adidas" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Giày Chạy Bộ Adidas</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">1.800.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 10 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/speedo-swimwear.jpg" class="img-fluid rounded-circle h-100" alt="Đồ Bơi Speedo" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Đồ Bơi Speedo</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">850.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 11 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/bose-headphones.jpg" class="img-fluid rounded-circle h-100" alt="Tai Nghe Bose" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Tai Nghe Bose</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">4.000.000đ</h4>
+                </div>
+            </div>
+            <!-- Product 12 -->
+            <div class="col-lg-6 col-xl-3">
+                <div class="p-4 rounded bg-white shadow text-center">
+                    <div class="mb-4" style="height: 180px;">
+                        <img src="Images/SanPham/nike-backpack.jpg" class="img-fluid rounded-circle h-100" alt="Ba Lô Nike" style="object-fit: cover; width: 100%; max-width: 150px;">
+                    </div>
+                    <a href="#" class="h5 d-block mb-2">Ba Lô Nike</a>
+                    <div class="d-flex justify-content-center mb-3 text-warning">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4 class="mb-3">1.500.000đ</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Bestseller Products End -->

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ShopManager.Areas.Admin.Models.ChiTietHoaDon>
+
+@{
+    ViewData["Title"] = "Chi tiết Hóa Đơn";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã Sản Phẩm</th>
+            <th>Mã Thanh Toán</th>
+            <th>Giá</th>
+            <th>Số Lượng</th>
+            <th>Tổng Cộng</th>
+            <th>Ngày Tạo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.PaymentId</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@item.Quantity</td>
+                <td>@item.Total.ToString("C")</td>
+                <td>@item.CreateAt.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>

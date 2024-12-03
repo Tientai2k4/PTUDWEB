@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ShopManager.Areas.Admin.Models.HoaDon>
+
+@{
+    ViewData["Title"] = "Danh Sách Hóa Đơn";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã Hóa Đơn</th>
+            <th>Khách Hàng</th>
+            <th>Email</th>
+            <th>Số Điện Thoại</th>
+            <th>Tổng Cộng</th>
+            <th>Ngày Tạo</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hoaDon in Model)
+        {
+            <tr>
+                <td>@hoaDon.Id</td>
+                <td>@hoaDon.FirstName @hoaDon.LastName</td>
+                <td>@hoaDon.Email</td>
+                <td>@hoaDon.Phone</td>
+                <td>@hoaDon.Total.ToString("C")</td>
+                <td>@hoaDon.CreateAt.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a href="@Url.Action("Details", "HoaDon", new { id = hoaDon.Id })" class="btn btn-info">Xem Chi Tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

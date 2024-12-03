@@ -1,0 +1,13 @@
+﻿@model ShopManager.Areas.Admin.Models.KhachHang
+
+<h2>Customer Details</h2>
+
+<div>
+    <p><strong>Name:</strong> @Model.FirstName @Model.LastName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Phone:</strong> @Model.Phone</p>
+    <p><strong>Status:</strong> @(Model.IsActive ? "Active" : "Inactive")</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+</div>
+
+<a href="@Url.Action("Index", "KhachHang")">Back to List</a>

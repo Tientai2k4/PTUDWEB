@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ShopManager.Areas.Admin.Models.Report>
+
+@{
+    ViewData["Title"] = "Báo cáo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tháng</th>
+            <th>Tổng Doanh Thu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model)
+        {
+            <tr>
+                <td>@report.Month</td>
+                <td>@string.Format("{0:N0} ₫", report.TotalRevenue)</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+﻿@model ShopManager.Areas.Admin.Models.KhachHang
+
+<h2>Delete Customer</h2>
+
+<p>Are you sure you want to delete the customer @Model.FirstName @Model.LastName?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Delete</button>
+</form>
+
+<a href="@Url.Action("Index", "KhachHang")">Cancel</a>
